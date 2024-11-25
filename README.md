@@ -16,13 +16,7 @@ A simple and interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and 
 - **CSS3**: Styling and responsive design.
 - **JavaScript**: Game logic and interactivity.
 
-## 📸 Screenshots
 
-### Game Board
-![Tic-Tac-Toe Board](https://via.placeholder.com/800x400?text=Game+Screenshot)
-
-### Winner Screen
-![Winner Screen](https://via.placeholder.com/800x400?text=Winner+Screenshot)
 
 ## 🖥️ Live Demo
 
